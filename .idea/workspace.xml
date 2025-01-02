@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40e74503-6cbf-42db-853f-798c8fd3372a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AutomationFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/apiconstants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/testdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/test_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="40e74503-6cbf-42db-853f-798c8fd3372a" name="Changes" comment="initial commi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,9 +53,22 @@
       <option name="presentableId" value="Default" />
       <updated>1735821616727</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commi">
+      <option name="closed" value="true" />
+      <created>1735827582870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827582870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commi" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commi" />
   </component>
 </project>
